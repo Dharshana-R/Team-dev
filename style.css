@@ -103,7 +103,7 @@ footer .who{
      }
 
      .job {
-        right: 3rem;
+        right: 1.25rem;
         font-size: 0.688rem;
      }
 
@@ -115,7 +115,7 @@ footer .who{
 
   @media only screen and (min-width: 600px) {
     .job {
-        right: 5rem;
+        right: 0rem;
         font-size: 0.75rem;
      }
 
