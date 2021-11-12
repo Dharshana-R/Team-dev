@@ -87,44 +87,44 @@ footer .who{
 
 
 @media only screen and (max-width: 600px){
-    .container {   
-        margin-top: 20px;    
+    .ttt {   
+        margin-top: 1.25rem;    
         grid-template-columns: repeat(1, 1fr);  
     }
 
-    .description h5 {
-        margin-top: 10px;
+    .con{
+        margin-top: 0.625rem;
     }
 
-    .images {       
+    .ima {       
         grid-template-columns: repeat(2, 1fr);
         column-gap:0;
-        margin-top: 50px;  
+        margin-top: 3.125rem;  
      }
 
-     .photo__job {
-        right: 20px;
-        font-size: 11px;
+     .job {
+        right: 1.25rem;
+        font-size: 0.688rem;
      }
 
     
-     img {
-        margin-left: 30px;
+     .im {
+        margin-left: 1.875rem;
     }
   }
 
   @media only screen and (min-width: 600px) {
-    .photo__job {
+    .job {
         right: 0;
-        font-size: 12px;
+        font-size: 0.75rem;
      }
 
-    .name {
-    font-size: 15px;
+    .nm {
+    font-size: 0.938rem;
     } 
 
-.description p {
-    line-height: 16px;
+.con {
+    line-height: 1rem;
     
 }
      
