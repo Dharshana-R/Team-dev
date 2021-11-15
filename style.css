@@ -90,7 +90,7 @@ footer .who{
 @media only screen and (max-width: 600px){
     
     html body{
-        margin: 5px;
+        margin: 0px;
     }
     
     .ttt {   
