@@ -116,6 +116,8 @@ footer .who{
         column-gap:0;
         margin-top: 20px; 
         margin-left: 30px;
+        
+        
      }
 
      .job {
@@ -125,7 +127,7 @@ footer .who{
      }
     
     .nm{
-      left: 90px;
+      margin-left: 90px;
     }
 
     
