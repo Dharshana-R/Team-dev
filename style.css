@@ -95,15 +95,12 @@ footer .who{
         flex-direction: column;
     }
     
-      h1{
-        padding-left: 500px;
+    h1{
+        margin-left: 50px;
     }
 
-    .con{
-        padding-right: 300px;
-        margin-top: 10px;
-        
-    }
+ 
+
    
 
     .ima {       
