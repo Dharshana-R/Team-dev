@@ -91,6 +91,7 @@ footer .who{
     
     html body{
         margin: 0px;
+        width: 100% !important;
     }
     
     .ttt {   
