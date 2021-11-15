@@ -116,8 +116,6 @@ footer .who{
         column-gap:5px;
         margin-top: 20px; 
         margin-left: 30px;
-        
-        
      }
 
      .job {
@@ -128,6 +126,10 @@ footer .who{
     
     .nm{
       margin-left: 50px;
+    }
+    
+    .photo{
+        margin-top:5px;
     }
 
     
