@@ -117,7 +117,7 @@ footer .who{
         grid-template-columns: repeat(1, 1fr);
         column-gap:5px;
         margin-top: 20px; 
-        margin-left: 30px;
+        margin-left: 20px;
      }
 
      .job {
