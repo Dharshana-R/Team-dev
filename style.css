@@ -89,6 +89,8 @@ footer .who{
 
 @media only screen and (max-width: 600px){
     
+    width: 100% !important;
+    
     html body{
         margin: 0px;
         width: 100% !important;
