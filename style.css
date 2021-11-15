@@ -88,6 +88,11 @@ footer .who{
 
 
 @media only screen and (max-width: 600px){
+    
+    html{
+        margin: 1rem;
+    }
+    
     .ttt {   
         margin-top: 20px;    
         grid-template-columns: repeat(1, 1fr);  
@@ -100,7 +105,9 @@ footer .who{
     }
 
  
-
+ .con{
+        margin-right: 100px;
+    }
    
 
     .ima {       
