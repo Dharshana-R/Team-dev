@@ -92,6 +92,10 @@ footer .who{
         margin-top: 20px;    
         grid-template-columns: repeat(1, 1fr);  
     }
+    
+     h1{
+        padding-left: 50px;
+    }
 
     .con{
         margin-top: 10px;
