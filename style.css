@@ -106,7 +106,8 @@ footer .who{
 
  
     .con{
-        right: 1000px;
+        justify-content:left;
+        align-items:left;
     }
    
 
