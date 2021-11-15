@@ -92,7 +92,7 @@ footer .who{
     
     html body{
         margin: 0px;
-        width: 100% !important;
+        
     }
     
     .ttt {   
@@ -149,21 +149,6 @@ footer .who{
         justify-content: center;
         font-size: 18px;
         font-weight: 600;
-        width: 100% !important;
+       
 }
-  /*@media only screen and (min-width: 600px) {
-    .job {
-        right: 0;
-        font-size: 12px;
-     }
-
-    .nm {
-    font-size: 15px;
-    } 
-
-.con {
-    line-height: 16px;
-    
-}
-     
-  }
+ 
