@@ -95,14 +95,7 @@ footer .who{
         flex-direction: column;
     }
     
-     h1{
-        padding-left: 500px;
-    }
-
-    .con{
-        margin-right: 30px;
-        margin-top: 10px;
-    }
+   
 
     .ima {       
         grid-template-columns: repeat(1, 1fr);
