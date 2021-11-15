@@ -121,7 +121,12 @@ footer .who{
      .job {
         padding-left: 3px;
         font-size: 22px;
+         padding-top: 2px;
      }
+    
+    .nm{
+        padding-left: 20px;
+    }
 
     
      .im {
